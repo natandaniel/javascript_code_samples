@@ -1,3 +1,11 @@
 # Hash Triangle
 
-Logging a 7 layered triangle with hashes
+A loop that makes seven calls to console.log to output the following triangle:
+
+'#
+'##
+'###
+'####
+'#####
+'######
+'#######
